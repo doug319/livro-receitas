@@ -1,5 +1,5 @@
 
-# Frango a Parmegiana :chicken
+# Frango a Parmegiana :chicken:
 
 ### Ingredientes:
 -  1/2 kg de file de frango
@@ -16,7 +16,7 @@
 - 1/2 xicara (cha) de agua
 - 3 colheres (sopa) de azeite
 - 1 tabletinho de caldo de galinha
-- manjericao ou oréeano a gosto
+- manjericao ou oregano a gosto
 Finalizar:
 - 250 g de mussarela em fatias
 

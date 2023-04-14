@@ -1,5 +1,5 @@
-# Livro de Receitas
+# Livro de Receitas :chef:
 
 Ola! Bem vindo ao meu livro de receitas
 
- - Parmegiana de Frango
+ - Frango a Parmegiana
